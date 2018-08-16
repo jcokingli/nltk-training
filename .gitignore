@@ -1,0 +1,6 @@
+# Misc
+.DS_Store
+.idea/
+
+# Auto generated VS code files
+.vscode/
